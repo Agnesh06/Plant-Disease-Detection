@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Datasets
+data/*
+!data/.gitkeep
+*.zip
+
+# Models
+models/*
+!models/.gitkeep
+*.h5
+
+*.pt
+*.pth
+*.pkl
+
+# Project outputs
+outputs/*
+!outputs/.gitkeep
