@@ -61,8 +61,12 @@ Select Highest Probability Class
         ↓
 Display Disease + Confidence
 ```
-
 The Streamlit application caches the trained model and returns both the predicted class and its confidence score.
+
+## 🏗️ Architecture
+
+<img width="1691" height="930" alt="ChatGPT Image Aug 28, 2026, 01_00_55 AM" src="https://github.com/user-attachments/assets/44fbb105-1a4f-42b7-8349-6cf848df2413" />
+
 
 ## 🖥️ Streamlit Application
 
